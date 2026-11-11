@@ -35,7 +35,7 @@ The project follows a rigorous engineering pipeline from raw flat files to a pol
 ## 📊 Dashboard Pages & Scope
 
 - **Home (`Home`):** Executive landing hub providing core financial metrics and seamless navigation.
--  ![Home Page](Screenshots/home.png)
+![Home Page](Screenshots/home.jpg)
   
 - **Overview (`Overview`):** High-level summary of total revenue, customer growth, and overall risk exposure.
   ![Overview Page](Screenshots/overview.png)
