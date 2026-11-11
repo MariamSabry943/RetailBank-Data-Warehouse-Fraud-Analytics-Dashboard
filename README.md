@@ -6,7 +6,7 @@ An end-to-end data engineering and business intelligence project built on a **Me
 ## 🎨 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshots/overview.png" alt="RetailBank Dashboard Preview" width="100%">
+  <img src="Home page.PNG" alt="RetailBank Dashboard Preview" width="100%">
 </p>
 
 ---
